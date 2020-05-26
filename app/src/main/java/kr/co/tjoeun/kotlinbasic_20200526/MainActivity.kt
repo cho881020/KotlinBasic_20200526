@@ -13,6 +13,15 @@ class MainActivity : AppCompatActivity() {
 
         okBtn.setOnClickListener {
 
+//            var num = 10
+//            num = 20.5
+
+//            var num = 10
+//            num = 20
+//
+//            var num2 = 10
+//            num2 = 50
+
             val inputContent = contentEdt.text.toString()
 
             resultTxt.text = inputContent
